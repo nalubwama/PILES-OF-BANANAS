@@ -1,0 +1,98 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.one{
+    height: 670px;
+    background-color:#f2f2f2;
+}
+.two{
+    height: 670px;
+    background-color:   #88898a;
+}
+.one1{
+    width:300px;
+    height: 670px;
+    background-color: #88898a;
+}
+.two1{
+    width:200px;
+    height: 480px;
+    background-color: #383c3e;
+    margin-top: 80px;
+}
+.box{
+    width:340px;
+    height: 400px;
+    background-color: #fff;
+    margin-top: 32px;
+    margin-left: -80px;
+}
+.bananas{
+    width: 180px;
+    margin-left: 60px;
+    margin-top: -34px;
+}
+.arrow{
+    margin-left: -18px;
+    background-color: #cbc6bc;
+    border-radius: 60px;
+    margin-top: 10px;
+}
+.pile{
+    text-align: center;
+    margin-top: -20px;
+    font-size: 18px;
+    letter-spacing: 2px;
+    color: #6a6d6f;
+}
+.crop{
+    margin-left: 130px;
+}
+.p{
+    font-size: 10px;
+    color:#c4c4c4;
+    text-align: center;
+    margin-top: 10px;
+}
+.a{
+    margin-top: 40px;
+}
+a[href="qty"]{
+    color:#6a6d6f;
+    font-size: 10px;
+    margin-left: 80px;
+}
+a[href="color"]{
+    color:#6a6d6f;
+     font-size: 10px;
+    margin-left: 40px;
+}
+a[href="size"]{
+    color:#6a6d6f;
+     font-size: 10px;
+    margin-left: 50px;
+}
+.img{
+    margin-left: 70px;
+}
+.colo{
+    margin-left: 10px;
+        
+}
+.xl{
+  margin-left: 30px;  
+}
+.button{
+    color: #fff;
+    border-radius: 50px;
+    margin-left: 115px;
+    margin-top: 35px;
+    
+}
+.add{
+    border-radius: 50px;
+    background-color: #fed001;
+}
+
+
